@@ -1,2 +1,9 @@
-# goldbug
-A series of cryptography tools for use in Erlang / Elixir applications
+goldbug
+=====
+
+An OTP library
+
+Build
+-----
+
+    $ rebar3 compile
